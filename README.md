@@ -7,6 +7,12 @@
 - Displays a scrolling message on a 16x2 LCD.
 - Text scrolls automatically across the screen.
 
+# Schematic:
+
+- Below you can see a schematic image to facilitate the wiring of cables from the microcontroller to devices, both input and output sensors:
+
+![Schematic](img/skema.jpg)
+
 # Components
 
 - Arduino Uno = 1 unit;
